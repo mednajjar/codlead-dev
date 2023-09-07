@@ -23,7 +23,8 @@ export default function home () {
         <h1 className='text-white text-6xl font-bold md:text-7xl lg:text-8xl'>
           COD<span className='text-green-600'>Lead</span>
         </h1>
-        <p className='text-white mt-6'>Comming soon...</p>
+        <p className='text-white mt-6 font-semibold'>Comming soon...</p>
+        <a className='mt-5 text-white font-semibold px-3 py-3 text-xl rounded-md bg-indigo-600 hover:bg-indigo-500' href="https://forms.gle/P2BCwnPTcf29hKw27" target="_blank" rel="noopener noreferrer">Buy CODLead.com</a>
       </main>
     </>
   )
